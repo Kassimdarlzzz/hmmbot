@@ -515,7 +515,7 @@ Aɢᴀɪɴ Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ
             text=f"""ꝛᴧᴢᴇʀ ɪs ᴏɴʟɪɴᴇ sɪɴᴄᴇ ᴀᴜɢᴜsᴛ 2022 ᴀɴᴅ ɪᴛ's ʙᴇɪɴɢ ᴄᴏɴsᴛᴀɴᴛʟʏ ᴜᴘᴅᴀᴛᴇᴅ!
             
 
-⌁ @WH0907, ʙᴏᴛ ᴄʀᴇᴀᴛᴏʀ ᴀɴᴅ ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+⌁ @kassim_darlzzz, ʙᴏᴛ ᴄʀᴇᴀᴛᴏʀ ᴀɴᴅ ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
 
             
 × sᴜᴘᴘᴏʀᴛ
@@ -548,14 +548,14 @@ Aɢᴀɪɴ Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ
         )
     elif query.data == "razer_source":
         query.message.edit_text(
-            text="""ꝛᴧᴢᴇʀʙᴏᴛ ɪs ɴᴏᴡ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ.
+            text="""ᴡɪᴢᴋʜᴀʟɪғᴀʙᴏᴛ ɪs ɴᴏᴡ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ.
 
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.""",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="github.com/LinuxGuy312/RazerBot"),                 
+                    InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://t.me/kassim_darlzzz"),                 
                     InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="about_"),
                  ]    
                 ]
